@@ -65,7 +65,7 @@ var rules = {
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
     "Why do you want ~y?",
-    "Suppose you got ~y soon.",
+    "I do not care for your desires" ~y soon.",
   ],
     "~*x I need ~*y": [
     "What would it mean if you got ~y?",
